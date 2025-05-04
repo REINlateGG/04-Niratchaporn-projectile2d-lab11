@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PikPng.com_cross-hair-png_2434010_0: -7987853819256234128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
